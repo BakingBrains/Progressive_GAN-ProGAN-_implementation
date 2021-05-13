@@ -1,7 +1,7 @@
 # Progressive_GAN-ProGAN-_implementation
 ProGAN implementation</br>
 
-Dataset: [celeb-HQ] (https://www.kaggle.com/lamsimon/celebahq)</br>
+Dataset: [celeb-HQ](https://www.kaggle.com/lamsimon/celebahq)</br>
 - Dowload the dataset and extract it to a folder and change the training dataset path in <i>config.py</i></br>
 
 Edit the configurations according to your specification in <i>config.py</i></br>
