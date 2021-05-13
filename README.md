@@ -5,6 +5,13 @@ Dataset: celeb-HQ (https://www.kaggle.com/lamsimon/celebahq)</br>
 - Dowload the dataset and extraxt it to a folder and change the training dataset path in <i>config.py</i></br>
 
 Edit the configurations according to your specification in <i>config.py</i></br>
+Run the *train.py* file to start the training
+
+A log folder will be created to trace the traning of ProGAN. You can check it by running it using tensorboard</br>
+
+```
+tensorboard --logdir logs
+```
 
 ProGAN paper: https://arxiv.org/abs/1710.10196 </br>
 
