@@ -7,7 +7,7 @@ Dataset: celeb-HQ (https://www.kaggle.com/lamsimon/celebahq)</br>
 Edit the configurations according to your specification in <i>config.py</i></br>
 Run the *train.py* file to start the training
 
-A log folder will be created to trace the traning of ProGAN. You can check it by running it using tensorboard</br>
+A log folder will be created to trace the training of ProGAN. You can check using tensorboard</br>
 
 ```
 tensorboard --logdir logs
