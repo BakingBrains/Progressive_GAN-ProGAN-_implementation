@@ -2,7 +2,7 @@
 ProGAN implementation</br>
 
 Dataset: celeb-HQ (https://www.kaggle.com/lamsimon/celebahq)</br>
-- Dowload the dataset and extraxt it to a folder and change the training dataset path in <i>config.py</i></br>
+- Dowload the dataset and extract it to a folder and change the training dataset path in <i>config.py</i></br>
 
 Edit the configurations according to your specification in <i>config.py</i></br>
 Run the *train.py* file to start the training
